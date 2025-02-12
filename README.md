@@ -54,7 +54,7 @@ You can **export the query result** as a `.CSV` file for analysis in **Excel, Go
 ---
 
 ## 🔗 Related WooCommerce Resources
-📌 [WooCommerce SQL Schema](https://woocommerce.com/document/woocommerce-database-description/)  
+📌 [WooCommerce Database Description](https://github.com/woocommerce/woocommerce/wiki/Database-Description)   
 📌 [WordPress Database Structure](https://codex.wordpress.org/Database_Description)  
 
 ---
